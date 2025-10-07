@@ -7,7 +7,7 @@
 
 <p><em>Dataset, benchmark, and model for structured images generation and editing</em></p>
 
-[![Huggingface Paper](https://img.shields.io/badge/Paper-2510.05091-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2507.15846)
+[![Huggingface Paper](https://img.shields.io/badge/Paper-2510.05091-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2510.05091)
 [![arXiv](https://img.shields.io/badge/arXiv-2519.05091-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2510.05091)
 [![Project](https://img.shields.io/badge/Project-Page-007ec6?style=for-the-badge)](https://structvisuals.github.io/)
 
