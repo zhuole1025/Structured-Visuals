@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./assets/paper_logo_circle.png" width="40" style="vertical-align: middle; margin-right: 8px;" />
-  Factuality Matters: Image Generation and Editing Meet Structured Visuals
+  Factuality Matters: When Image Generation and Editing Meet Structured Visuals
 </h1>
 
 <div align="center">
