@@ -10,6 +10,7 @@
 [![Huggingface Paper](https://img.shields.io/badge/Paper-2510.05091-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2507.15846)
 [![arXiv](https://img.shields.io/badge/arXiv-2519.05091-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2510.05091)
 [![Project](https://img.shields.io/badge/Project-Page-007ec6?style=for-the-badge)](https://structvisuals.github.io/)
+
 <a href="https://huggingface.co/datasets/hshjerry0315/StructEditBench"><img src="https://img.shields.io/badge/Dataset-StructEditBench-007ec6?style=flat&logo=huggingface" alt="StructEditBench Dataset"></a>
 <a href="https://huggingface.co/datasets/hshjerry0315/StructT2IBench"><img src="https://img.shields.io/badge/Dataset-StructT2IBench-007ec6?style=flat&logo=huggingface" alt="StructT2IBench Dataset"></a>
 
