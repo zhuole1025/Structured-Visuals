@@ -274,7 +274,7 @@ If you use StructBench in your research, please cite:
 
 ```bibtex
 @article{zhuo2025structbench,
-  title={Factuality Matters: Image Generation and Editing Meet Structured Visuals},
+  title={Factuality Matters: When Image Generation and Editing Meet Structured Visuals},
   author={Zhuo, Le and Han, Songhao and Pu, Yuandong and Qiu, Boxiang and Paul, Sayak and Liao, Yue and Liu, Yihao and Shao, Jie and Chen, Xi and Liu, Si and Li, Hongsheng},
   journal={arXiv preprint arXiv:2510.05091},
   year={2025}
