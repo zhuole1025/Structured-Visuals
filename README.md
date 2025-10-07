@@ -7,13 +7,11 @@
 
 <p><em>Dataset, benchmark, and model for structured images generation and editing</em></p>
 
-<!-- [![Huggingface Paper](https://img.shields.io/badge/Paper-2507.15846-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2507.15846)
-[![Paper](https://img.shields.io/badge/Paper-TBA-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.15846)
-[![alphaXiv](https://img.shields.io/badge/alphaXiv-2507.15846-1f8ceb?style=for-the-badge)](https://www.alphaxiv.org/abs/2507.15846)
-[![Project](https://img.shields.io/badge/Project-Page-007ec6?style=for-the-badge)](https://zju-real.github.io/GUI-G2)
-[![GitHub](https://img.shields.io/badge/Code-GUI--G2-000000?style=for-the-badge&logo=github)](https://github.com/zju-real/GUI-G2)
-<a href="https://huggingface.co/inclusionAI/GUI-G2-3B"><img src="https://img.shields.io/badge/Model-GUI--G2--3B-007ec6?style=flat&logo=huggingface" alt="GUI-G2 3B Model"></a>
-<a href="https://huggingface.co/inclusionAI/GUI-G2-7B"><img src="https://img.shields.io/badge/Model-GUI--G2--7B-007ec6?style=flat&logo=huggingface" alt="GUI-G2 7B Model"></a> -->
+[![Huggingface Paper](https://img.shields.io/badge/Paper-2510.05091-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2507.15846)
+[![arXiv](https://img.shields.io/badge/arXiv-2519.05091-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2510.05091)
+[![Project](https://img.shields.io/badge/Project-Page-007ec6?style=for-the-badge)](https://structvisuals.github.io/)
+<a href="https://huggingface.co/datasets/hshjerry0315/StructEditBench"><img src="https://img.shields.io/badge/Dataset-StructEditBench-007ec6?style=flat&logo=huggingface" alt="StructEditBench Dataset"></a>
+<a href="https://huggingface.co/datasets/hshjerry0315/StructT2IBench"><img src="https://img.shields.io/badge/Dataset-StructT2IBench-007ec6?style=flat&logo=huggingface" alt="StructT2IBench Dataset"></a>
 
 </div>
 
@@ -277,7 +275,7 @@ If you use StructBench in your research, please cite:
 @article{zhuo2025structbench,
   title={Factuality Matters: Image Generation and Editing Meet Structured Visuals},
   author={Zhuo, Le and Han, Songhao and Pu, Yuandong and Qiu, Boxiang and Paul, Sayak and Liao, Yue and Liu, Yihao and Shao, Jie and Chen, Xi and Liu, Si and Li, Hongsheng},
-  journal={arXiv preprint arXiv:2510.xxxxx},
+  journal={arXiv preprint arXiv:2510.05091},
   year={2025}
 }
 ```
