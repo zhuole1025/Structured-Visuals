@@ -13,6 +13,7 @@
 
 <a href="https://huggingface.co/datasets/hshjerry0315/StructEditBench"><img src="https://img.shields.io/badge/Dataset-StructEditBench-007ec6?style=flat&logo=huggingface" alt="StructEditBench Dataset"></a>
 <a href="https://huggingface.co/datasets/hshjerry0315/StructT2IBench"><img src="https://img.shields.io/badge/Dataset-StructT2IBench-007ec6?style=flat&logo=huggingface" alt="StructT2IBench Dataset"></a>
+<a href="[https://huggingface.co/datasets/hshjerry0315/StructT2IBench](https://huggingface.co/datasets/JackyZhuo/SructVisuals)"><img src="https://img.shields.io/badge/Dataset-StructVisuals-007ec6?style=flat&logo=huggingface" alt="StructVisuals Dataset"></a>
 
 </div>
 
@@ -29,8 +30,9 @@
 
 StructBench evaluates image generation and editing models on structured visuals like charts, diagrams, math figures, tables, graphs, and puzzles:
 
-- **StructEditBench**: 1,714 editing examples with 32,031 Q&A pairs → [hshjerry0315/StructEditBench](https://huggingface.co/datasets/hshjerry0315/StructEditBench)
-- **StructT2IBench**: 1,714 T2I examples with 37,941 Q&A pairs → [hshjerry0315/StructT2IBench](https://huggingface.co/datasets/hshjerry0315/StructT2IBench)
+- **[StructVisuals](https://huggingface.co/datasets/JackyZhuo/SructVisuals)**: 1.34 million training data with Chain-of-Thoughts annotations
+- **[StructEditBench](https://huggingface.co/datasets/hshjerry0315/StructEditBench)**: 1,714 editing evaluation exmpales with 32,031 Q&A pairs
+- **[StructT2IBench](https://huggingface.co/datasets/hshjerry0315/StructT2IBench)**: 1,714 T2I evaluation examples with 37,941 Q&A pairs
 - **StructScore**: Multi-round Q&A evaluation metric using VLMs (GPT-5 or Qwen2.5-VL-72B)
 
 Categories: **Math**, **Graph**, **Chart**, **Puzzle**, **Science**, **Table**
