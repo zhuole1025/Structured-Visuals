@@ -35,7 +35,7 @@ StructBench evaluates image generation and editing models on structured visuals 
 - **[StructT2IBench](https://huggingface.co/datasets/hshjerry0315/StructT2IBench)**: 1,714 T2I evaluation examples with 37,941 Q&A pairs
 - **StructScore**: Multi-round Q&A evaluation metric using VLMs (GPT-5 or Qwen2.5-VL-72B)
 
-Categories: **Math**, **Graph**, **Chart**, **Puzzle**, **Science**, **Table**
+Categories: **Math**, **Graph**, **Chart**, **Puzzle**, **Science**, **Table** 
 
 ## Installation
 
